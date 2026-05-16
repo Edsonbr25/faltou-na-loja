@@ -1,0 +1,15 @@
+[browser] Erro ao registrar produto faltante: {
+  code: [32m'42501'[39m,
+  details: [1mnull[22m,
+  hint: [1mnull[22m,
+  message: [32m'new row violates row-level security policy for table "produtos_faltantes"'[39m
+} 
+    at handleSubmit (app/registrar/page.tsx:66:17)
+  64 |
+  65 |       if (insertError) {
+> 66 |         console.error("Erro ao registrar produto faltante:", insertError);
+     |                 ^
+  67 |         setError(`Erro ao registrar: ${insertError.message}`);
+  68 |         return;
+  69 |       } (app/registrar/page.tsx:66:17)
+[browser] Erro ao registrar produto faltante: new row violates row-level security policy for table "produtos_faltantes" | Codigo: 42501 (app/registrar/page.tsx:83:17)

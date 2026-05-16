@@ -1,0 +1,35 @@
+
+> faltou-na-loja@0.1.0 dev
+> next dev -p 3001
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://172.30.160.1:3001
+- Environments: .env.local
+✓ Ready in 1267ms
+Creating turbopack project { dir: 'C:\\Users\\edson\\faltou-na-loja', testMode: true }
+
+ GET / 200 in 631ms (next.js: 306ms, application-code: 325ms)
+ GET / 200 in 53ms (next.js: 7ms, application-code: 46ms)
+ GET / 200 in 61ms (next.js: 7ms, application-code: 54ms)
+ GET / 200 in 103ms (next.js: 10ms, application-code: 92ms)
+ GET /registrar 200 in 184ms (next.js: 88ms, application-code: 96ms)
+✓ Compiled in 193ms
+ GET /registrar 200 in 301ms (next.js: 100ms, application-code: 201ms)
+ GET /registrar 200 in 115ms (next.js: 12ms, application-code: 103ms)
+ GET / 200 in 63ms (next.js: 19ms, application-code: 44ms)
+ GET /registrar 200 in 73ms (next.js: 25ms, application-code: 48ms)
+✓ Compiled in 111ms
+ GET /registrar 200 in 211ms (next.js: 111ms, application-code: 100ms)
+ GET / 200 in 70ms (next.js: 26ms, application-code: 44ms)
+ GET /registrar 200 in 67ms (next.js: 18ms, application-code: 49ms)
+ GET /registrar 200 in 264ms (next.js: 4ms, application-code: 260ms)
+ GET / 200 in 48ms (next.js: 8ms, application-code: 40ms)
+ GET /painel 200 in 113ms (next.js: 67ms, application-code: 46ms)
+ GET /registrar 200 in 37ms (next.js: 7ms, application-code: 30ms)
+ GET / 200 in 46ms (next.js: 6ms, application-code: 40ms)
+✓ Compiled in 69ms
+ GET / 200 in 224ms (next.js: 99ms, application-code: 125ms)
+ GET / 200 in 108ms (next.js: 38ms, application-code: 69ms)
+ GET /registrar 200 in 111ms (next.js: 12ms, application-code: 99ms)
+ GET /registrar 200 in 37ms (next.js: 7ms, application-code: 29ms)
