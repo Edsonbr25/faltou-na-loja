@@ -33,3 +33,10 @@ Creating turbopack project { dir: 'C:\\Users\\edson\\faltou-na-loja', testMode: 
  GET / 200 in 108ms (next.js: 38ms, application-code: 69ms)
  GET /registrar 200 in 111ms (next.js: 12ms, application-code: 99ms)
  GET /registrar 200 in 37ms (next.js: 7ms, application-code: 29ms)
+✓ Compiled in 171ms
+ GET / 200 in 356ms (next.js: 74ms, application-code: 283ms)
+ GET / 200 in 238ms (next.js: 8ms, application-code: 229ms)
+ GET /registrar 200 in 450ms (next.js: 151ms, application-code: 298ms)
+ GET / 200 in 102ms (next.js: 8ms, application-code: 95ms)
+ GET /registrar 200 in 210ms (next.js: 19ms, application-code: 191ms)
+ GET /registrar 200 in 74ms (next.js: 13ms, application-code: 61ms)
